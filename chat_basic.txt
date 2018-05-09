@@ -1,0 +1,101 @@
+BazaarAgent	"Welcome, Kristy"
+BazaarAgent	"Welcome, Gub"
+BazaarAgent	Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+BazaarAgent	"Welcome, Jimmy"
+BazaarAgent	"Welcome, lee"
+Jimmy	Hello
+Kristy	hi there
+Gub	Hello
+Jimmy	Why did you guys choose plan 3?
+lee	hi
+BazaarAgent	Hey Jimmy, can you elaborate on the reason you chose plan 3 from your perspective of carbon neutrality and what is best economically in the long run ?
+Kristy	I was looking it over.  Seems to me that plan 2 is best
+BazaarAgent	Hey Kristy, you have proposed plan 2, and Jimmy has proposed plan 3. What do you think are the most important trade-offs between the two plans from your perspective of what would be most environmentally friendly and with lowest startup costs ?
+Kristy	Mine has a bigger renewable tax credit versus Plan 3
+Jimmy	I chose plan 3 because the Nuclear Power reduces the CO2 in the atmosphere as
+Kristy	Plan 2 has no waste disposal cost
+Gub	Plan 2 does seem like the best option. Second cheapest, environmentally friendly, tax credit, no tax.
+Kristy	Plan 2 has no carbon tax
+Gub	Plan 1 is the cheapest but coal energy is bad for the city.
+Kristy	3 would be great if the renewable were bigger
+Jimmy	Though plan 3 is more and has no tax, the extra energy could be sold to nearby cities
+Kristy	I agree with Jimmy
+Kristy	Yet 2 is cheaper than 3
+Gub	Speculation.
+Kristy	brings back more $$ as well 
+Kristy	So, 2 or 3 then.
+Gub	3 is nuclear, though.
+Jimmy	The only thing I see that is against Nuclear is the water pollution that could potentially occur
+Kristy	Nuclear is cleaner except for the waste
+Jimmy	Though all include it
+Jimmy	Nuclear waste is easily controlled, but it uses water
+Kristy	On plan 2 wind is 40% but .... the birds
+Jimmy	and is the worst if it gets out
+lee	The issue with option two is that they have hospitals which need stable energy (just finished reading)
+Kristy	Well, I think there is some apparatus that could be constructed to veer the birds away from the windmills
+Kristy	That's true, Lee
+Gub	You have to consider the potential danger of nuclear energy as well as the effect it has on the appearance of the city.
+Kristy	Wind isn't exactly stable
+Jimmy	Nuclear is reliable
+Jimmy	Plus jobs
+Jimmy	It's just the conotation
+Kristy	but what about the potential renewable tax credit on 2?
+Kristy	it's much bigger
+lee	@Gub: the danger is more perceived than anything else. Nuclear has costed less human lives than coal power has over the decades
+Gub	I see.
+Kristy	I agree with Lee, but I stand firm on 2.  
+Kristy	2 due to lower cost and bigger return
+Gub	And, while we're at it, let's stop saying that windmills kill birds.
+Gub	They do, but it's not significant.
+Kristy	Agreed with Gub on that
+Jimmy	I think Hydro is the best option
+Jimmy	Outside of the price
+Gub	How do you figure?
+Jimmy	No chemical waste
+Jimmy	No emissions
+Jimmy	They only have birds
+Jimmy	Water always will flow
+Kristy	We have 7 minutes.
+Kristy	Jimmy is right about the water
+Jimmy	Renewable
+Gub	OK, let's take a vote then?
+Kristy	Can't say same for the wind.
+Jimmy	And could also be used for cleaning
+Gub	Gotta write out the proposal.
+Jimmy	Yeah
+Kristy	I say 3 not 2 now
+lee	I'm not entirely a fan of 2, but I think hydro is just an all around bad choice in this case because of the environmental impact and the cost.
+lee	I'd go with 2 before hydro
+Gub	I agree with lee. Hydro is probably bad for the fishes.
+Jimmy	I'd say 3 but the chemical polution
+Jimmy	They don't care about fish in this city
+Kristy	I go back to 2.  Firm on 2
+Kristy	Not changing my mind.
+Kristy	What say you all?
+Gub	I vote for 2.
+lee	Okay. shall we take a vote? I can compromise on 2
+Jimmy	I suppose since I was leaning 3 but for all but 1 I'm fine with 2
+Jimmy	We don't need to mention fish
+Jimmy	By the way
+Gub	There are fish! You lie.
+Jimmy	It only mentions birds
+Gub	It mentioned aquatic habitats.
+BazaarAgent	Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+Gub	Oh, wait, you're right.
+Jimmy	that's why I said 4 isn't that bad
+Gub	This one doesn't say anything about fish.
+Kristy	Well, the coal has the drawback of upsetting the groundwater and rivers with its pollutants
+Kristy	It's the cheapest but fouls the land and water (coal)
+Kristy	ARe we good?
+lee	Don't forget to type btw gub, I don't recall whether they're evaluating us on this ehterpad part or not.
+lee	Ya, everything I was concerned with got mentioned.
+Jimmy	it is a 50c bonus
+Kristy	42 seconds
+Kristy	waste disposal cost
+Gub	Alright
+Jimmy	It was fun
+Kristy	Great job, y'all
+Kristy	see ya later
+lee	Yep!
+lee	See ya.
+Gub	Haha, later

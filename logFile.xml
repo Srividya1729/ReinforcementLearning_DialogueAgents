@@ -1,0 +1,82 @@
+<entry timestamp="2018-02-01#16:50:49" user="NewAgentRunner" level="INFO">Logger initialized</entry>
+<entry timestamp="2018-02-01#16:50:49" user="NewAgentRunner" level="NORMAL">AgentOperator NewAgentRunner created</entry>
+<entry timestamp="2018-02-01#16:50:49" user="NewAgentRunner" level="NORMAL">Operation Created</entry>
+<entry timestamp="2018-02-01#16:50:49" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.agents.listeners.PresenceWatcher, class basilica2.agents.listeners.MessageAnnotator, class basilica2.social.listeners.ActivityTracker, class basilica2.tutor.listeners.TutorialTriggerWatcher, class basilica2.tutor.listeners.TutorTurnWatcher, class basilica2.social.listeners.StrategyScoreComputer, class basilica2.social.listeners.RuleBasedTriggerComputer, class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.myagent.listeners.Register]</entry>
+<entry timestamp="2018-02-01#16:50:49" user="NewAgentRunner" level="NORMAL">Classes: [class basilica2.social.listeners.SocialController, class basilica2.accountable.listeners.AgreeDisagreeActor, class basilica2.accountable.listeners.AskForExplanationActor, class basilica2.accountable.listeners.RevoiceActor, class basilica2.accountable.listeners.SayMoreActor, class basilica2.agents.listeners.plan.PlanExecutor, class basilica2.tutor.listeners.TutorActor, class basilica2.myagent.listeners.PromptActor]</entry>
+<entry timestamp="2018-02-01#16:50:50" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2018-02-01#16:50:50" user="NewAgentRunner" level="NORMAL">Operation started</entry>
+<entry timestamp="2018-02-01#16:50:52" user="ConditionAgentUI" level="NORMAL">Conditions set to social</entry>
+<entry timestamp="2018-02-01#16:50:53" user="ConditionAgentUI" level="NORMAL">Conditions set to participation social</entry>
+<entry timestamp="2018-02-01#16:50:54" user="ConditionAgentUI" level="NORMAL">Conditions set to participation social revoice</entry>
+<entry timestamp="2018-02-01#16:50:55" user="ConditionAgentUI" level="NORMAL">Conditions set to participation explain social revoice</entry>
+<entry timestamp="2018-02-01#16:50:58" user="NewAgentRunner" level="NORMAL">setting basilica2.agents.room_name to Test01</entry>
+<entry timestamp="2018-02-01#16:50:58" user="NewAgentRunner" level="NORMAL"><launching room=Test01/></entry>
+<entry timestamp="2018-02-01#16:50:58" user="AgentFactory" level="NORMAL">Making Agent from agent.xml</entry>
+<entry timestamp="2018-02-01#16:50:58" user="AgentFactory" level="NORMAL">File Read</entry>
+<entry timestamp="2018-02-01#16:50:58" user="AgentFactory" level="NORMAL">Agent Tag Read</entry>
+<entry timestamp="2018-02-01#16:50:58" user="AgentFactory" level="NORMAL">Components Tag Read</entry>
+<entry timestamp="2018-02-01#16:50:58" user="AgentFactory" level="NORMAL">Components read. N=5</entry>
+<entry timestamp="2018-02-01#16:50:58" user="AgentFactory" level="NORMAL">Agent build. VirtualErland_Test01</entry>
+<entry timestamp="2018-02-01#16:50:58" user="NewAgentRunner" level="NORMAL">Adding agent VirtualErland_Test01</entry>
+<entry timestamp="2018-02-01#16:50:58" user="NewAgentRunner" level="INFO">Added. 1 agents now working</entry>
+<entry timestamp="2018-02-01#16:50:58" user="NewAgentRunner" level="INFO">Initializing new agent</entry>
+<entry timestamp="2018-02-01#16:50:58" user="PromptStepHandler" level="NORMAL">default priority=0.75, wait 0.1 seconds after prompts, +3.3333333333333335 wps</entry>
+<entry timestamp="2018-02-01#16:50:58" user="NewAgentRunner" level="INFO">Starting new Agent</entry>
+<entry timestamp="2018-02-01#16:50:58" user="NewAgentRunner" level="NORMAL">notified UI of agent launch for VirtualErland_Test01</entry>
+<entry timestamp="2018-02-01#16:50:58" user="NewAgentRunner" level="NORMAL">Agent added VirtualErland_Test01</entry>
+<entry timestamp="2018-02-01#16:51:15" user="VirtualErland_Test01 Wizard" level="INFO">displaying wizard UI for VirtualErland_Test01</entry>
+<entry timestamp="2018-02-01#16:51:20" user="" level="NORMAL">ACCEPTED! Message from VirtualErland: hai WIZARD</entry>
+<entry timestamp="2018-02-01#16:52:17" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2018-02-01#16:52:17" user="PlanExecutor" level="NORMAL">PLAN: activiating next stage: initiate</entry>
+<entry timestamp="2018-02-01#16:52:17" user="PlanExecutor" level="NORMAL">Firing Stage 'initiate'</entry>
+<entry timestamp="2018-02-01#16:52:17" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage initiate</entry>
+<entry timestamp="2018-02-01#16:52:17" user="PlanExecutor" level="NORMAL">Firing Stage 'body'</entry>
+<entry timestamp="2018-02-01#16:52:17" user="basilica2.agents.listeners.plan.Stage" level="NORMAL">finished stage body</entry>
+<entry timestamp="2018-02-01#16:52:18" user="PresenceWatcher" level="NORMAL">STUDENTS COUNT: 1</entry>
+<entry timestamp="2018-02-01#16:52:18" user="" level="NORMAL">accepted. Message from VirtualErland: Welcome, undefined
+I'm Virtual Erland. In this activity, we’ll reflect on the lectures from current week, and discuss some of the core ideas.
+ INTRODUCTION.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#16:52:20" user="" level="NORMAL">accepted. Message from VirtualErland:
+Lipinski's rules introduce many structural features that can influence whether a drug might be orally available.  Discuss why the number of hydrogen bond donors and acceptors might affect oral absorption.
+         TOPIC_PROMPT.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#16:53:18" user="" level="NORMAL">accepted. Message from VirtualErland: How might a drug's having a large number of hydrogen bond donors and acceptors prevent it from crossing cell membranes in the digestive tract? POKING.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#16:54:18" user="" level="NORMAL">accepted. Message from VirtualErland:
+The rate of blood flow through the liver and kidneys of a 70-kg patient is very high at 66 L/h and 99 L/h.  The high rate of blood flow explains the important role of these organs on drug clearance.  The blood flow rate through the lung is much higher at 314 L/h.  Why do you think the lungs, despite their high blood flow, do not normally factor into drug clearance?
+         TOPIC_PROMPT.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#16:55:19" user="" level="NORMAL">accepted. Message from VirtualErland: What two variables determine an organ's clearance, and which prevents the lungs from clearing most drugs from the blood stream? POKING.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#16:56:19" user="" level="NORMAL">accepted. Message from VirtualErland:
+The apparent volume of distribution of a drug can have values of over 1.0 L/kg.  At this value, the apparent volume of distribution exceeds the actual volume of the human body.  Explain how this is possible and what higher values indicate about a drug?
+         TOPIC_PROMPT.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#16:57:47" user="" level="NORMAL">accepted. Message from VirtualErland: If a drug has a high value for its volume of distribution, where is that drug likely located (or not located) in the body? POKING.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#16:58:47" user="" level="NORMAL">accepted. Message from VirtualErland:
+A Cp-time graph for an oral drug is shown on the right hand side.  The concentration values exceed the therapeutic window of the drug.  How might the dosing of the drug be adjusted so that the concentrations might fall within the therapeutic window?
+         TOPIC_PROMPT.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#16:58:49" user="" level="NORMAL">ACCEPTED! CREATE whiteboard-image http://erebor.lti.cs.cmu.edu/bazaar/image_week3</entry>
+<entry timestamp="2018-02-01#16:59:47" user="" level="NORMAL">accepted. Message from VirtualErland: How might the size and frequency of the dose be adjusted to ensure a safe and effective dosing regimen? POKING.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#17:00:47" user="" level="NORMAL">accepted. Message from VirtualErland:
+And now we’re done. Thanks for joining us, have a great day! I will now continue the chat activity again starting from the first prompt for those who missed the initial prompts.
+         TOPIC_PROMPT.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#17:01:47" user="" level="NORMAL">accepted. Message from VirtualErland:  POKING.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#17:02:47" user="" level="NORMAL">accepted. Message from VirtualErland:
+Lipinski's rules introduce many structural features that can influence whether a drug might be orally available.  Discuss why the number of hydrogen bond donors and acceptors might affect oral absorption.
+         TOPIC_PROMPT.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#17:03:48" user="" level="NORMAL">accepted. Message from VirtualErland: How might a drug's having a large number of hydrogen bond donors and acceptors prevent it from crossing cell membranes in the digestive tract? POKING.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#17:04:48" user="" level="NORMAL">accepted. Message from VirtualErland:
+The rate of blood flow through the liver and kidneys of a 70-kg patient is very high at 66 L/h and 99 L/h.  The high rate of blood flow explains the important role of these organs on drug clearance.  The blood flow rate through the lung is much higher at 314 L/h.  Why do you think the lungs, despite their high blood flow, do not normally factor into drug clearance?
+         TOPIC_PROMPT.
+Starting blockout countdown... </entry>
+<entry timestamp="2018-02-01#17:05:06" user="NewAgentRunner" level="NORMAL">Starting operation</entry>
+<entry timestamp="2018-02-01#17:05:06" user="NewAgentRunner" level="NORMAL">Operation started</entry>
