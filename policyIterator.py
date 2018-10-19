@@ -42,37 +42,6 @@ def get_reward(s_new, a):
     context = ic.ruleBasedVanilla(context)
     score = ic.interactionScore(context, participants, 10)
 
-    # commented out code is to test the functionality
-    # if s_new == 0:
-    #     return 11
-    #
-    # if s_new == 1:
-    #     return 3
-    #
-    # if s_new == 2:
-    #     return 29
-    #
-    # if s_new == 3:
-    #     return 10
-    #
-    # if s_new == 4:
-    #     return 14
-    #
-    # if s_new == 5:
-    #     return 18
-    #
-    # if s_new == 6:
-    #     return 16
-    #
-    # if s_new == 7:
-    #     return 19
-    #
-    # if s_new == 8:
-    #     return 9
-    #
-    # if s_new == 9:
-    #     return 10
-
     return score
 
 
